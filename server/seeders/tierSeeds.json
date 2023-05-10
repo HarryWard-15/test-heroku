@@ -1,0 +1,17 @@
+[
+    {
+        "_id": "55246EE6E77090425287D2FB",
+        "name": 1,
+        "description": "Pedestrian"
+    },
+    {
+        "_id": "7124BB7DFC7DFD8E013F54D6",
+        "name": 2,
+        "description": "Rambler"
+    },
+    {
+        "_id": "E39F5CFA950068B644C1ED2A",
+        "name": 3,
+        "description": "Complete"
+    }
+]
