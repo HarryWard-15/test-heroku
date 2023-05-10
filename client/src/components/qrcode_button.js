@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Button from "@mui/material/Button";
+import { Link } from "react-router-dom";
 import {
   UPDATE_USER_BADGE,
   UPDATE_STATUS,
@@ -80,7 +81,6 @@ export default function QRCodeButtons(props) {
       });
 
       console.log("successful");
-      window.location.href = "/dashboard";
     } catch (err) {
       console.error(err);
     }
